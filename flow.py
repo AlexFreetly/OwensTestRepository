@@ -21,7 +21,7 @@ def f_test():
     if f(2) != 'is even':
             works = False 
     if works==True: 
-        print ('works=true')
+        print ('Alex is cool')
     else: 
         print ('works=false')
         
